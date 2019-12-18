@@ -1,6 +1,6 @@
-# Express Boilerplate!
+# Noteful Server!
 
-This is a boilerplate project used for starting new projects!
+This is the server for the noteful REACT client!
 
 ## Set up
 
